@@ -1,0 +1,106 @@
+body{
+  background-color: hsl(0, 0%, 98%);
+  font-family: 'Poppins', sans-serif;
+}
+p{
+  color: hsl(229, 6%, 66%);
+  line-height: 1.5;
+}
+h2{
+  font-size: 20px;
+}
+.top-half{
+  margin: 50px auto auto auto;
+  text-align: center;
+}
+.bottom-half{
+  padding:0 150px 150px 195px;
+  position: relative;
+}
+.h1-1{
+  color: hsl(229, 6%, 66%);
+  font-weight: 100;
+}
+.h1-2{
+  color: hsl(234, 12%, 34%);
+  font-weight: 600;
+}
+.intro{
+  margin: auto;
+  width:33%;
+}
+.intro-builder{
+  font-size: 15px;
+  width: 95%;
+}
+.intro-calc{
+  font-size: 15px;
+  width: 97%;
+}
+.intro-karma{
+  font-size: 15px;
+  width:99%;
+}
+.intro-sup{
+  font-size: 15px;
+  width:95%
+}
+h2{
+  color: hsl(234, 12%, 34%)
+}
+.top{
+  border-radius: 2%;
+  box-shadow:  0 -5px 0 0px hsl(0, 78%, 62%),0 4px 10px 0 #888888;
+  width:270px;
+  height:230px;
+  position: absolute;
+  margin:100px auto auto 400px ;
+  padding: 20px 30px;
+}
+.right{
+  border-radius: 2%;
+  box-shadow:  0 -5px 0 0px hsl(212, 86%, 64%),0 5px 10px 0 #888888;
+  width:270px;
+  height:230px;
+  position: absolute;
+  margin:250px 0 auto 770px ;
+  padding:20px 30px ;
+}
+.bottom{
+  border-radius: 2%;
+  box-shadow:  0 -5px 0 0px hsl(34, 97%, 64%),0 5px 10px 0 #888888;
+  width:270px;
+  height:230px;
+  position: absolute;
+  margin:400px 1000px auto 400px;
+  padding:20px 30px;
+}
+.left{
+  border-radius: 2%;
+  box-shadow:  0 -5px 0 0px hsl(180, 62%, 55%),0 5px 10px 0 #888888;
+  width:270px;
+  height:230px;
+  position: absolute;
+  margin:250px 650px auto 30px;
+  padding:20px 30px ;
+}
+.team-builder{
+  float: right;
+  margin: 40px auto 50px 300px;
+}
+.calculator{
+  float: right;
+  margin: 40px auto 50px 300px;
+
+}
+.karma{
+  float: right;
+  margin: 40px auto 50px 300px;
+}
+.supervisor{
+  float: right;
+  margin: 40px auto 50px 300px;
+}
+.footer{
+  padding:20px;
+}
